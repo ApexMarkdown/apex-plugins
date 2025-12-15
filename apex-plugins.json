@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "id": "kbd",
+      "title": "Keyboard Shortcuts",
+      "description": "Renders {% kbd %} tags as <kbd> elements.",
+      "author": "Brett Terpstra",
+      "homepage": "https://github.com/ApexMarkdown/apex-plugin-kbd",
+      "repo": "https://github.com/ApexMarkdown/apex-plugin-kbd"
+    }
+  ]
+}
