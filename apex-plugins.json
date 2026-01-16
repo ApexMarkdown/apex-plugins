@@ -7,6 +7,14 @@
       "author": "Brett Terpstra",
       "homepage": "https://github.com/ApexMarkdown/apex-plugin-kbd",
       "repo": "https://github.com/ApexMarkdown/apex-plugin-kbd"
+    },
+    {
+      "id": "md-fixup",
+      "title": "Markdown Fixup",
+      "description": "Integrates md-fixup with Apex.",
+      "author": "Brett Terpstra",
+      "homepage": "https://github.com/ApexMarkdown/apex-plugin-md-fixup",
+      "repo": "https://github.com/ApexMarkdown/apex-plugin-md-fixup"
     }
   ]
 }
