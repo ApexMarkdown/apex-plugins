@@ -15,6 +15,14 @@
       "author": "Brett Terpstra",
       "homepage": "https://github.com/ApexMarkdown/apex-plugin-md-fixup",
       "repo": "https://github.com/ApexMarkdown/apex-plugin-md-fixup"
+    },
+    {
+      "id": "taskpaper",
+      "title": "TaskPaper Format",
+      "description": "Renders TaskPaper task management syntax inside Markdown files. Project headers are colored and indented, tasks formatted as plain dashes, H3/H4 headings rendered as inline bold. Crystal binary with Ruby fallback.",
+      "author": "Ralf Hülsmann",
+      "homepage": "https://github.com/rhsev/apex-plugin-taskpaper",
+      "repo": "https://github.com/rhsev/apex-plugin-taskpaper"
     }
   ]
 }
